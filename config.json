@@ -1,0 +1,12 @@
+{
+  "latest_version": "1.0",
+  "download_url": "https://www.google.com",
+  "force_update": false,
+  "app_status": "active",
+  "message_title": "أهلاً بك",
+  "message_body": "مرحباً بك في الإصدار الأول من نوفل داونلودر!",
+  "features": {
+    "enable_4k": true,
+    "enable_mp3": true
+  }
+}
