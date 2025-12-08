@@ -2,9 +2,10 @@
   "latest_version": "1.0",
   "download_url": "https://www.google.com",
   "force_update": false,
-  "app_status": "maintenance",
-  "message_title": "أهلاً بك",
-  "message_body": "مرحباً بك في الإصدار الأول من نوفل داونلودر!",
+  "show_message": true,
+  "app_status": "active",
+  "message_title": "🎁 عرض خاص وحصري",
+  "message_body": "خصم 50% على باقة Enterprise لفترة محدودة! تواصل معنا الآن لتفعيل نسختك.",
   "features": {
     "enable_4k": true,
     "enable_mp3": true
