@@ -2,7 +2,7 @@
   "latest_version": "1.0",
   "download_url": "https://www.google.com",
   "force_update": false,
-  "show_message": true,
+  "show_message": false,
   "app_status": "active",
   "message_title": "تعليمات من المطور 😉",
   "message_body": "غير مسار التحميل قبل البدء بعملية التحميل الأولى.",
