@@ -2,10 +2,10 @@
   "latest_version": "1.0",
   "download_url": "https://www.google.com",
   "force_update": false,
-  "show_message": false,
+  "show_message": true,
   "app_status": "active",
-  "message_title": "🎁 عرض خاص وحصري",
-  "message_body": "خصم 50% على باقة Enterprise لفترة محدودة! تواصل معنا الآن لتفعيل نسختك.",
+  "message_title": "تعليمات من المطور 😉",
+  "message_body": "غير مسار التحميل قبل البدء بعملية التحميل الأولى.",
   "features": {
     "enable_4k": true,
     "enable_mp3": true
