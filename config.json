@@ -1,13 +1,22 @@
 {
-  "latest_version": "1.0",
-  "download_url": "https://www.google.com",
+  "latest_version": "3.1",
+  "min_supported_version": "2.0",
+  "download_url": "https://github.com/Abdulrhman65/Nofal-Downloader/releases/latest",
   "force_update": false,
-  "show_message": false,
+  "show_message": true,
+  "message_priority": "info",
   "app_status": "active",
-  "message_title": "تعليمات من المطور 😉",
-  "message_body": "غير مسار التحميل قبل البدء بعملية التحميل الأولى.",
+  "message_title": "💡 نصيحة من المطور",
+  "message_body": "غير مسار التحميل قبل البدء لعملية التحميل الأولى.",
   "features": {
     "enable_4k": true,
-    "enable_mp3": true
+    "enable_mp3": true,
+    "enable_queue": true,
+    "max_queue_size": 50
+  },
+  "maintenance": {
+    "start": null,
+    "end": null,
+    "reason": ""
   }
 }
